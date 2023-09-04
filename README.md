@@ -3,9 +3,13 @@ ASP.NET Core MVC Web Application
 
 # Project Overview
 
-In today's technology-driven landscape, countless applications are at the heart of modern business operations. The ability to comprehend and enhance existing codebases is as vital as writing new code. In this project, we present an opportunity to work on an existing ASP.NET Core MVC Web Application, enhancing and improving its capabilities.
+In today's technology-driven landscape, countless applications are at the heart of modern business operations.
+The ability to comprehend and enhance existing codebases is as vital as writing new code. In this project, we
+present an opportunity to work on an existing ASP.NET Core MVC Web Application, enhancing and improving its 
+capabilities.
 
-The core objectives of this project are to understand architectural patterns, implement coding principles, and apply design patterns that align with corporate requirements.
+The core objectives of this project are to understand architectural patterns, implement coding principles, and
+apply design patterns that align with corporate requirements.
 
 # Project Deadline: 21st September 2023
 # Table of Contents
@@ -90,21 +94,23 @@ The primary branches used in this strategy are:
 **Development Branch:** 
 
     The "Development" branch serves as the central hub for ongoing development work. It's where new features, 
-    bug fixes, and enhancements are implemented. Developers create feature branches from the "Development" branch to work on specific tasks.
+    bug fixes, and enhancements are implemented. Developers create feature branches from the "Development"
+    branch to work on specific tasks.
 
 **Feature Branches:** 
 
-    Feature branches are created from the "Development" branch and are dedicated to individual features or bug fixes. 
-    Once a feature is complete and tested, it is merged back into the "Development" branch.
+    Feature branches are created from the "Development" branch and are dedicated to individual features or
+    bug fixes. Once a feature is complete and tested, it is merged back into the "Development" branch.
 
-This branching strategy helps maintain code quality and stability in the main branch while allowing for parallel development efforts in 
-isolated feature branches.
+This branching strategy helps maintain code quality and stability in the main branch while allowing for parallel
+development efforts in isolated feature branches.
 
-By following this branching strategy, we ensure that the "Main" branch always contains a reliable version of the application, while the 
-"Development" branch facilitates collaboration and continuous integration of new features and improvements.
+By following this branching strategy, we ensure that the "Main" branch always contains a reliable version of the
+application, while the "Development" branch facilitates collaboration and continuous integration of new features 
+and improvements.
 
-This approach enhances code management, promotes collaboration among team members, and ensures that production remains stable throughout the 
-development process.
+This approach enhances code management, promotes collaboration among team members, and ensures that production 
+remains stable throughout the development process.
 
 # Project Close-out
 
