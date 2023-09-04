@@ -129,3 +129,4 @@ Please consult the following references for additional insights:
     Secure a .NET web app with the ASP.NET Core Identity framework - Learn | Microsoft Docs
     Design Patterns In C# .NET (c-sharpcorner.com)
     Architectural Patterns in .NET (c-sharpcorner.com)
+    Github Fork (2017) YouTube. Available at: https://youtu.be/l5NrYIa_aG4?si=iIdqiWYtcEzM-jyT (Accessed: 04 September 2023). 
