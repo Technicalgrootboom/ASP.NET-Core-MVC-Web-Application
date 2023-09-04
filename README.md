@@ -10,26 +10,26 @@ The core objectives of this project are to understand architectural patterns, im
 # Project Deadline: 21st September 2023
 # Table of Contents
 
-    Prerequisites
-    Requirements
-    Project Details
+    - Prerequisites
+    - Requirements
+    - Project Details
         GitHub Administration
         Project Progress
         Project Setup
         Design Pattern Implementation
         Project Close-out
-    Usefulness in the Corporate World
-    Future Applications
-    Submission Details
-    Warning
-    Marking Considerations
-    References
+    - Usefulness in the Corporate World
+    - Future Applications
+    - Submission Details
+    - Warning
+    - Marking Considerations
+    - References
 
 # Prerequisites
 
 Before embarking on this project, it is essential to address the following prerequisites:
 
-    Ensure access to the NWU Azure tenant via the Azure Portal using your MS Fed account: 12345678@student365.msfed.nwu.ac.za.
+    Ensure access to the NWU Azure tenant via the Azure Portal using your MS Fed account: 12345678@mynwu.ac.za.
     Create a resource group, adhering to the appropriate naming convention for logical work grouping.
     Install Visual Studio 2022 Community edition and .NET Core 6.
     Confirm that the database required in Project 2 has been created and is accessible in Azure.
@@ -39,7 +39,8 @@ Before embarking on this project, it is essential to address the following prere
 This section outlines the functional and non-functional requirements of the project.
 
     Functional Requirements: These define what the system must do and how it should function.
-    Non-Functional Requirements: These pertain to quality attributes and supportive requirements ensuring the implementation of functional features aligns with best software practices.
+    Non-Functional Requirements: These pertain to quality attributes and supportive requirements ensuring the 
+    implementation of functional features aligns with best software practices.
 
 # GitHub Administration
 
@@ -70,8 +71,10 @@ This section outlines the functional and non-functional requirements of the proj
         Migrate data access operations from the Zones controller to the Customers Repository class.
         Migrate data access operations from the Categories controller to the Products Repository class.
     Implement Repository Classes:
-        Integrate the Customer repository class in the Orders controller for data access operations transferred to the repository class.
-        Integrate the Products repository class in the Orders controller for data access operations transferred to the repository class.
+        Integrate the Customer repository class in the Orders controller for data access operations transferred
+        to the repository class.
+        Integrate the Products repository class in the Orders controller for data access operations transferred
+        to the repository class.
 
 # Project Close-out
 
@@ -86,13 +89,18 @@ This section outlines the functional and non-functional requirements of the proj
 
 # Usefulness in the Corporate World
 
-This project encompasses skills highly relevant in the corporate landscape. Understanding architectural patterns, adhering to coding principles, and implementing design patterns are indispensable capabilities for maintaining and enhancing existing systems. Companies benefit from employees who can efficiently navigate and improve codebases, leading to improved software quality and maintainability.
-Future Applications
+This project encompasses skills highly relevant in the corporate landscape. Understanding architectural patterns, adhering
+to coding principles, and implementing design patterns are indispensable capabilities for maintaining and enhancing existing 
+systems. Companies benefit from employees who can efficiently navigate and improve codebases, leading to improved software 
+quality and maintainability.
+# Future Applications
 
-The skills acquired in this project extend beyond the academic realm. Proficiency in enhancing existing applications is a valuable asset in a professional career. The ability to apply design patterns and coding principles not only enhances current projects but also lays a foundation for future endeavors.
-Submission Details
+The skills acquired in this project extend beyond the academic realm. Proficiency in enhancing existing applications is a 
+valuable asset in a professional career. The ability to apply design patterns and coding principles not only enhances current
+projects but also lays a foundation for future endeavors.
+#Submission Details
 
-# This project serves as an individual assignment, utilizing GitHub for version control. Submission details include:
+**This project serves as an individual assignment, utilizing GitHub for version control.** Submission details include:
 
     Provide the URL to your GitHub Repository.
     Share credentials required to connect to your data source(s).
@@ -101,10 +109,11 @@ Submission Details
 Deadline: The submission deadline is 17:00 on 21st September 2023. Late submissions are not accommodated.
 # Warning
 
-Maintain the confidentiality of your GitHub repository and Kanban project. Public access to your codebase is strictly prohibited, and any breach will result in a 0% score.
-Marking Considerations
+Maintain the confidentiality of your GitHub repository and Kanban project. Public access to your codebase is strictly 
+prohibited, and any breach will result in a 0% score.
+#Marking Considerations
 
-# The following factors will be considered during the marking and moderation process:
+**The following factors will be considered during the marking and moderation process:**
 
     A rubric will be provided separately to guide assessment.
     Failure to upload any submission requirement leads to a 0% score.
