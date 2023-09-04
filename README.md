@@ -17,6 +17,7 @@ The core objectives of this project are to understand architectural patterns, im
         Project Progress
         Project Setup
         Design Pattern Implementation
+        Branching
         Project Close-out
     - Usefulness in the Corporate World
     - Future Applications
@@ -75,6 +76,13 @@ This section outlines the functional and non-functional requirements of the proj
         to the repository class.
         Integrate the Products repository class in the Orders controller for data access operations transferred
         to the repository class.
+
+# Branching
+
+    In this project, we employ the Development Branch branching strategy. The development branch serves as a separate 
+    branch where new features, bug fixes, and enhancements are implemented. This approach allows us to keep the main branch
+    stable while development work progresses in isolation. It helps maintain code quality and allows for collaboration among
+    team members without affecting the production-ready code.
 
 # Project Close-out
 
