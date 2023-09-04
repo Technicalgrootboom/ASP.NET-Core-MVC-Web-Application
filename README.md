@@ -77,12 +77,34 @@ This section outlines the functional and non-functional requirements of the proj
         Integrate the Products repository class in the Orders controller for data access operations transferred
         to the repository class.
 
-# Branching
+# Branching Strategy
 
-    In this project, we employ the Development Branch branching strategy. The development branch serves as a separate 
-    branch where new features, bug fixes, and enhancements are implemented. This approach allows us to keep the main branch
-    stable while development work progresses in isolation. It helps maintain code quality and allows for collaboration among
-    team members without affecting the production-ready code.
+For this project, we employ a well-structured branching strategy to manage the development process efficiently. 
+The primary branches used in this strategy are:
+
+**Main Branch:** 
+
+    This branch represents the production-ready code. It should always reflect a stable and deployable version 
+    of the application. Changes in this branch should only occur when a new release is ready.
+
+**Development Branch:** 
+
+    The "Development" branch serves as the central hub for ongoing development work. It's where new features, 
+    bug fixes, and enhancements are implemented. Developers create feature branches from the "Development" branch to work on specific tasks.
+
+**Feature Branches:** 
+
+    Feature branches are created from the "Development" branch and are dedicated to individual features or bug fixes. 
+    Once a feature is complete and tested, it is merged back into the "Development" branch.
+
+This branching strategy helps maintain code quality and stability in the main branch while allowing for parallel development efforts in 
+isolated feature branches.
+
+By following this branching strategy, we ensure that the "Main" branch always contains a reliable version of the application, while the 
+"Development" branch facilitates collaboration and continuous integration of new features and improvements.
+
+This approach enhances code management, promotes collaboration among team members, and ensures that production remains stable throughout the 
+development process.
 
 # Project Close-out
 
