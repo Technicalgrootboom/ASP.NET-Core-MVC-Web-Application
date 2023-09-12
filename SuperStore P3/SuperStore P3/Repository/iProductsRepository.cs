@@ -1,9 +1,10 @@
 ﻿using EcoPower_Logistics.Repository;
+using Models;
 
 namespace EcoPower_Logistics.Repository
 {
-    public interface iProductsRepository : IGenericRepository<ProductsRepository>
+    public interface iProductsRepository : IGenericRepository<Product>
     {
-        ProductsRepository GetMostRecentService();
+        Product GetMostRecentService();
     }
 }
