@@ -3,9 +3,9 @@ using Models;
 
 namespace EcoPower_Logistics.Repository
 {
-    public interface iOrderDetailsRepository : IGenericRepository<OrderDetailsRepository>
+    public interface iOrderDetailsRepository : IGenericRepository<OrderDetail>
     {
-        OrderDetailsRepository GetMostRecentService();
+        OrderDetail GetMostRecentService();
     }
 }
 
