@@ -7,7 +7,7 @@ namespace EcoPower_Logistics.Repository
     {
         protected readonly SuperStoreContext _context = new SuperStoreContext();
 
-        // GET ALL: Products
+        // GET ALL: Customers
         public IEnumerable<Customer> GetAll()
         {
             return _context.Customers.ToList();
