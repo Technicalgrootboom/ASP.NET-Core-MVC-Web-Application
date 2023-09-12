@@ -11504,11 +11504,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+      "projectUniqueName": "F:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
       "projectName": "EcoPower_Logistics",
-      "projectPath": "F:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+      "projectPath": "F:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
       "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
-      "outputPath": "F:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\obj\\",
+      "outputPath": "F:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
