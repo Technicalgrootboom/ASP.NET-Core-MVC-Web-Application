@@ -1,6 +1,9 @@
-﻿namespace EcoPower_Logistics.Repository
+﻿using EcoPower_Logistics.Repository;
+
+namespace EcoPower_Logistics.Repository
 {
-    public interface iCustomersRepository
+    public interface iCustomersRepository: IGenericRepository<Service>
     {
+        Service GetMostRecentService();
     }
 }

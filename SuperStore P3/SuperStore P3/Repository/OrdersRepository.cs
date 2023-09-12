@@ -1,6 +1,6 @@
 ﻿namespace EcoPower_Logistics.Repository
 {
-    public class Orders
+    public class OrdersRepository
     {
     }
 }
