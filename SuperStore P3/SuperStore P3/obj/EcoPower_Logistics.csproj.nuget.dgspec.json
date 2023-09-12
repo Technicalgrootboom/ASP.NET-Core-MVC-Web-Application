@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj": {}
+    "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj": {}
   },
   "projects": {
-    "F:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj": {
+    "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+        "projectUniqueName": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
         "projectName": "EcoPower_Logistics",
-        "projectPath": "F:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
-        "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
-        "outputPath": "F:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\obj\\",
+        "projectPath": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+        "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
+        "outputPath": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Root\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -106,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
