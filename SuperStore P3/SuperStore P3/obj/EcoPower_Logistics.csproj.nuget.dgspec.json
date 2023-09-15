@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj": {}
+    "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\Latest-Project\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj": {}
   },
   "projects": {
-    "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj": {
+    "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\Latest-Project\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+        "projectUniqueName": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\Latest-Project\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
         "projectName": "EcoPower_Logistics",
-        "projectPath": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+        "projectPath": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\Latest-Project\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
         "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
-        "outputPath": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\obj\\",
+        "outputPath": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\Latest-Project\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
