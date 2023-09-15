@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-SuperStore_P3-4790db7e-c547-44ea-af49-d773fdd3ae67")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcoPower_Logistics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
