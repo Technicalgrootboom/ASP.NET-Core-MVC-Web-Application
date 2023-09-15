@@ -11498,19 +11498,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\itstudent\\.nuget\\packages\\": {}
+    "C:\\Users\\Jacqui.Muller\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+      "projectUniqueName": "C:\\Users\\Jacqui.Muller\\Downloads\\SuperStore P3\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
       "projectName": "EcoPower_Logistics",
-      "projectPath": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
-      "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
-      "outputPath": "E:\\Information Systems\\Modules\\Second Semester\\CMPG 323\\Project 3\\EcoPower_Logistics\\CMPG-323-Project-3---30844495\\SuperStore P3\\SuperStore P3\\obj\\",
+      "projectPath": "C:\\Users\\Jacqui.Muller\\Downloads\\SuperStore P3\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+      "packagesPath": "C:\\Users\\Jacqui.Muller\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jacqui.Muller\\Downloads\\SuperStore P3\\SuperStore P3\\SuperStore P3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jacqui.Muller\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11518,7 +11518,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Users\\Jacqui.Muller\\Downloads": {},
+        "C:\\Users\\Jacqui.Muller\\OneDrive - NTT\\Archive\\Documents\\UiPath\\Libraries - Nuget Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11599,7 +11600,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.110\\RuntimeIdentifierGraph.json"
       }
     }
   }
