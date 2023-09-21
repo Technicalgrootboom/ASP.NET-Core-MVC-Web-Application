@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CSNyXQS5g6ZFiQcDZw9ia4ZMCb923w2jDF7Rocxiqeb6DH4Kx+WGcYUYbR/gNlzAyMuqq2Ds4CDQ5tVxndgtHQ==",
+  "dgSpecHash": "dZvh4jFm/s4bmHvoUA9v7q8gl6QT7ExGW2w0MCMFbX83QFEWzhZGFtkCnqjNFSEmM8+oPzTfjeli3e02xSM32g==",
   "success": true,
-  "projectFilePath": "E:\\Information Systems\\Until It's DONE\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+  "projectFilePath": "E:\\Information Systems\\Until It's DONE\\CMPG-323-Project-3---30844495\\EcoPower_Logistics\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\itstudent\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\itstudent\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
