@@ -5,6 +5,10 @@ ASP.NET Core MVC Web Application
 
 # Project Overview
 
+This project is a web application that implements a data access layer, a repository layer, and adheres to
+coding standards and principles. It is designed to manage customer information, orders, order details, 
+and products.
+
 In today's technology-driven landscape, countless applications are at the heart of modern business operations.
 The ability to comprehend and enhance existing codebases is as vital as writing new code. In this project, we
 present an opportunity to work on an existing ASP.NET Core MVC Web Application, enhancing and improving its 
@@ -19,6 +23,7 @@ apply design patterns that align with corporate requirements.
     - Prerequisites
     - Requirements
     - Project Details
+        What has been done
         GitHub Administration
         Project Progress
         Project Setup
@@ -30,6 +35,7 @@ apply design patterns that align with corporate requirements.
     - Submission Details
     - Warning
     - Marking Considerations
+    - Screenshots
     - References
 
 # Prerequisites
@@ -48,6 +54,19 @@ This section outlines the functional and non-functional requirements of the proj
     Functional Requirements: These define what the system must do and how it should function.
     Non-Functional Requirements: These pertain to quality attributes and supportive requirements ensuring the 
     implementation of functional features aligns with best software practices.
+
+# What has been done
+
+This project is a web application that implements the following: 
+
+    data access layer
+    a repository layer
+    Adheres to coding standards and principles. It is designed to manage 
+    
+        - customer information
+        - orders
+        - order details
+        - products.
 
 # GitHub Administration
 
@@ -157,6 +176,14 @@ prohibited, and any breach will result in a 0% score.
     Failure to upload any submission requirement leads to a 0% score.
     This project is an individual assignment, and collaboration is not permitted.
     Employ the provided existing solution; deviation will result in a 0% score.
+# Screenshots
+
+![image](https://github.com/Technicalgrootboom/CMPG-323-Project-3---30844495/assets/91704415/8877d559-e4c4-4860-9572-910e1c560bf9)
+    
+![Screenshot (1)](https://github.com/Technicalgrootboom/CMPG-323-Project-3---30844495/assets/91704415/64ef3dcd-6b2b-4eec-8f44-b6bc5cd3729f)
+
+![Screenshot (2)](https://github.com/Technicalgrootboom/CMPG-323-Project-3---30844495/assets/91704415/a62fef78-53fe-4a81-ae02-b757729a2ddf)
+
 
 # References
 
