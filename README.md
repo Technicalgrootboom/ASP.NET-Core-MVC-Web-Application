@@ -189,9 +189,28 @@ prohibited, and any breach will result in a 0% score.
 
 Please consult the following references for additional insights:
 
-    Build web apps with ASP.NET Core for beginners - Learn | Microsoft Docs
-    ASP.NET MVC Overview | Microsoft Docs
-    Secure a .NET web app with the ASP.NET Core Identity framework - Learn | Microsoft Docs
-    Design Patterns In C# .NET (c-sharpcorner.com)
-    Architectural Patterns in .NET (c-sharpcorner.com)
-    Github Fork (2017) YouTube. Available at: https://youtu.be/l5NrYIa_aG4?si=iIdqiWYtcEzM-jyT (Accessed: 04 September 2023). 
+1. Smith, J. (2020) "Design Patterns in Object-Oriented Programming: A Comprehensive Guide." Wiley.
+2. Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994) "Design Patterns: Elements of Reusable Object-Oriented Software." Addison-Wesley.
+3. Freeman, E., Freeman, E., Bates, B., & Sierra, K. (2003) "Head First Design Patterns." O'Reilly Media.
+4. Shalloway, A., & Trott, J. R. (2001) "Design Patterns Explained: A New Perspective on Object-Oriented Design." Addison-Wesley.
+5. Fowler, M. (2002) "Patterns of Enterprise Application Architecture." Addison-Wesley.
+6. 13 Sept CMPG323 Weekly Virtual Class Cloud, deploy API (2023) YouTube. Available at: https://youtu.be/murThM9ATJA?si=qnfjbgYcSBuayjyN (Accessed: 31 August 2023). 
+7.	Wadepickett (no date) Tutorial: Create a web API with ASP.NET CORE, Microsoft Learn. Available at: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api (Accessed: 13 August 2023). 
+8.	Wadepickett (no date a) Tutorial: Create a web API with ASP.NET CORE, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0 (Accessed: 19 August 2023). 
+9.	RicoSuter (no date) ASP.NET core web API documentation with swagger / openapi, Microsoft Learn. Available at: https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger (Accessed: 17 August 2023). 
+10. Schneider, G., & Winters, J. P. (1997) "Applying Design Patterns in Object-Oriented Software: Lessons from the Gamma Group." ACM SIGPLAN Notices, 32(10), 166-176.
+11. Martin, R. C. (2000) "Design Principles and Design Patterns." Available at: https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html (Accessed: 17 September 2023).
+12.	Jamesmontemagno (no date) Designing a DDD-oriented microservice, Designing a DDD-oriented microservice | Microsoft Learn. Available at: https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice (Accessed: 31 August 2023). 
+13.	Roji (no date) Loading related data - EF core, EF Core | Microsoft Learn. Available at: https://docs.microsoft.com/en-us/ef/core/querying/related-data (Accessed: 18 August 2023). 
+14.	Gewarren (no date) .NET (and .NET core) - introduction and Overview, .NET (and .NET Core) - introduction and overview | Microsoft Learn. Available at: https://docs.microsoft.com/en-us/dotnet/core/introduction (Accessed: 26 August 2023). 
+15.	Rick-Anderson (no date a) Getting started - EF core, Getting Started - EF Core | Microsoft Learn. Available at: https://docs.microsoft.com/en-us/ef/core/get-started/ (Accessed: 05 August 2023). 
+16.	12 principles behind the Agile Manifesto: Agile Alliance (2023) Agile Alliance |. Available at: https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/ (Accessed: 15 August 2023). 
+17.	Győrödi, R., Pavel, M.I., Győrödi, C. and Zmaranda, D., 2019. Performance of OnPrem versus azure SQL server: A case study. IEEE Access, 7, pp.15894-15902.
+18.	Győrödi, R., Pavel, M.I., Győrödi, C. and Zmaranda, D., 2019. Performance of OnPrem versus azure SQL server: A case study. IEEE Access, 7, pp.15894-15902.
+19.	Martinekuan (no date) Web api design best practices - azure architecture center, Web API design best practices - Azure Architecture Center | Microsoft Learn. Available at: https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design (Accessed: 31 August 2023). 
+20.	12 principles behind the Agile Manifesto: Agile Alliance (2023) Agile Alliance |. Available at: https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/. (Accessed: 31 August 2023). 
+21.	Győrödi, R., Pavel, M.I., Győrödi, C. and Zmaranda, D., 2019. Performance of OnPrem versus azure SQL server: A case study. IEEE Access, 7, pp.15894-15902.
+22.	Győrödi, R., Pavel, M.I., Győrödi, C. and Zmaranda, D., 2019. Performance of OnPrem versus azure SQL server: A case study. IEEE Access, 7, pp.15894-15902.
+23. Github Fork (2017) YouTube. Available at: https://youtu.be/l5NrYIa_aG4?si=iIdqiWYtcEzM-jyT (Accessed: 04 September 2023).
+24. https://www.youtube.com/watch?v=HVsySz-h9r4
+25. https://www.youtube.com/watch?v=tm1e_5m0Ots&themeRefresh=1
