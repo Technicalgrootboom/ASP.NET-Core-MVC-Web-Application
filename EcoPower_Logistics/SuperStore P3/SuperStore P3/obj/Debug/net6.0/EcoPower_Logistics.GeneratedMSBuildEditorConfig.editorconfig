@@ -9,125 +9,125 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EcoPower_Logistics
 build_property.RootNamespace = EcoPower_Logistics
-build_property.ProjectDir = E:\Information Systems\Until It's DONE\EcoPower_Logistics\SuperStore P3\SuperStore P3\
+build_property.ProjectDir = E:\Information Systems\Until It's DONE\CMPG-323-Project-3---30844495\EcoPower_Logistics\SuperStore P3\SuperStore P3\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Information Systems\Until It's DONE\EcoPower_Logistics\SuperStore P3\SuperStore P3
+build_property.MSBuildProjectDirectory = E:\Information Systems\Until It's DONE\CMPG-323-Project-3---30844495\EcoPower_Logistics\SuperStore P3\SuperStore P3
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Areas/Identity/Pages/_ViewStart.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Customers/Create.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Customers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Customers/Delete.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Customers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Customers/Details.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Customers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Customers/Edit.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Customers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Customers/Index.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Home/Index.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Home/Privacy.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/OrderDetails/Create.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/OrderDetails/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/OrderDetails/Delete.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/OrderDetails/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/OrderDetails/Details.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/OrderDetails/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/OrderDetails/Edit.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/OrderDetails/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/OrderDetails/Index.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/OrderDetails/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Orders/Create.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Orders/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Orders/Delete.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Orders/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Orders/Details.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Orders/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Orders/Edit.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Orders/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Orders/Index.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Orders/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Products/Create.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Products/Delete.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Products/Details.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Products/Edit.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Products/Index.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Shared/Error.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Shared/_LoginPartial.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/_ViewImports.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/_ViewStart.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Information Systems/Until It's DONE/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Shared/_Layout.cshtml]
+[E:/Information Systems/Until It's DONE/CMPG-323-Project-3---30844495/EcoPower_Logistics/SuperStore P3/SuperStore P3/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-g59uv00tlf
